@@ -1,0 +1,8 @@
+Ecommerce Website testing...
+
+src: https://www.c-and-a.com/nl/nl/shop
+
+# userReg.py => new user registration
+# login.py => User login
+# search.py => search for a specific product
+# shoppingCart.py => Check items in shopping cart
